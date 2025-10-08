@@ -423,4 +423,3 @@ println!("{}", s1); // Now works
 
 ---
 
-**Happy coding! 🦀**
