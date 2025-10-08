@@ -1,8 +1,6 @@
-# 🦀 Rust Learning Projects
+# 🦀 Rust Project
 
-A collection of beginner-friendly Rust projects to learn the fundamentals of Rust programming.
 
----
 
 ## 📚 Table of Contents
 
